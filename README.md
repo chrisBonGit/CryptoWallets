@@ -1,4 +1,4 @@
 # CryptoWallets
-For crytpo wallets, initially
+For crytpo wallets
 
 Minor mod to practice commits
